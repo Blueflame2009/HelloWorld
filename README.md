@@ -11,6 +11,4 @@ Another edit from ReadMeEditbrach
 
 MasterBrach is edited.
 
-tempbrach is create and now write something
-
-hihihi
+Tempbrach is create and now write something
