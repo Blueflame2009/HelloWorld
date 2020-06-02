@@ -7,6 +7,8 @@ Now, write someting on the master brach
 
 OK, now pull anther brach names tempbrach
 
+Another edit from ReadMeEditbrach
+
 MasterBrach is edited.
 
 tempbrach is create and now write something
