@@ -1,19 +1,18 @@
 # HelloWorld
-This is a test for creating a new repository
+1.This is a test for creating a new repository
 
-Yes, this is my first message, bravo
+2.Yes, this is my first message, bravo
 
-Now, write someting on the master brach
+3.Now, write someting on the master brach
 
-OK, now pull anther brach names tempbrach
+4.OK, now pull anther brach names tempbrach
 
-Another edit from ReadMeEditbrach
+5.Another edit from ReadMeEditbrach
 
-MasterBrach is edited.
+6.MasterBrach is edited.
 
-This new from tempbrach
-
-Tempbrach is create and now write something
-
-This is new.
+7.This new from tempbrach
  
+8.Tempbrach is create and now write something
+ 
+9. This is new.
