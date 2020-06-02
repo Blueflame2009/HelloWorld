@@ -6,3 +6,5 @@ Yes, this is my first message, bravo
 Now, write someting on the master brach
 
 OK, now pull anther brach names tempbrach
+
+Another edit from ReadMeEditbrach
